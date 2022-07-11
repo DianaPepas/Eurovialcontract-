@@ -1,0 +1,112 @@
+
+img {
+    width: 150px;
+ 
+ }
+ h1{
+     text-align:center;
+     padding: 50px;
+ }
+ 
+ 
+  .par1{
+    margin-right: 55px;
+  }
+     
+ .SelectareData{
+         display: block;
+         margin: auto;
+       }
+ 
+  .Dataselector{
+     margin-left: 550px;
+     padding: 20px;
+  }
+  .Data2 {
+     margin-left: 50px;
+     margin-right: 50px;
+  }
+ 
+  button {
+     
+     background-color: #4c82af;
+     border: none;
+     color: white;
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 10px;
+     margin: 4px 2px;
+     cursor: pointer;
+     border-radius: 5px;
+   }
+   .left-btn { float: left; 
+    background-color: #0dcaf0;
+ border-radius: 5px;
+ color: black;
+    font-size: 16px;}
+ .right-btn { float: right; }
+ .right-btn { background-color: #0dcaf0;
+    border-radius: 5px;
+    color: black;
+    font-size: 16px;
+    
+ 
+ }
+ 
+ 
+ 
+  body {
+    padding: 79px;
+    border: 5px solid rgb(243, 240, 240);
+    background-color: rgba(255, 253, 253, 0.719);
+    }
+    .box{
+       background-color: rgb(255, 255, 255);
+    }
+ 
+   .Primul{
+    background-color: #dbdcdd;
+    border-radius: 2px;
+   }
+  .div1
+  h1 {
+    background-color: #c5cdd4;
+    font-size: 250%!important;
+  }
+  .container h1{
+    font-size: 200%;
+  }
+  .container h3 {
+ font-size: 100%; 
+ font-weight: bold;
+ }
+ 
+ .butontest {
+    color: black;
+    padding: 50px;
+ }
+ 
+ 
+ .submitbutton{
+    background-color: #0dcaf0;
+    border-radius: 5px;
+    color: black;
+    font-size: 16px;
+    margin-top: 30px;
+  margin-left: 520px;
+ }
+ 
+ label {
+    
+    
+    line-height: 30px;
+   
+  }
+  
+  input {
+    height: 25px;
+   
+    
+  }
